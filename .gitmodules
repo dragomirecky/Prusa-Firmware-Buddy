@@ -1,3 +1,0 @@
-[submodule "lib/Catch2"]
-	path = lib/Catch2
-	url = ../../catchorg/Catch2.git
