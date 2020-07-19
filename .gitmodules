@@ -1,9 +1,6 @@
 [submodule "TMCStepper"]
 	path = lib/TMCStepper
 	url = ../../prusa3d/TMCStepper.git
-[submodule "Marlin"]
-	path = lib/Marlin
-	url = ../../prusa3d/Marlin.git
 [submodule "inih"]
 	path = lib/inih
 	url = ../../benhoyt/inih.git
