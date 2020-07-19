@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:prusa3d/TMCStepper.git
+	branch = buddy
+	commit = d9c309984fca4dd6b30e1de66427fc07a2ec4a4c
+	parent = 08f3a04b28aab2fb627f3f986109a51f71a344d8
+	method = merge
+	cmdver = 0.4.1
