@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:prusa3d/Marlin.git
+	branch = buddy
+	commit = 171b2db345cecc92e5c5c505a29feba83f934229
+	parent = 8568aa03133c6c955911eafa9662a6a0f5902e2d
+	method = merge
+	cmdver = 0.4.1
